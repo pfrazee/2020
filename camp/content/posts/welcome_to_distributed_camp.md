@@ -1,37 +1,22 @@
 ---
 title: "Welcome To Distributed Camp"
 date: 2020-03-29T18:06:18-05:00
-draft: true
+draft: false
 ---
 
-Distributed Camp uses the excellent [Go][] [html/template][gohtmltemplate] library for
-its template engine.
+Distributed Camp is a unique event meant to highlight technologies which are changing the future of the Internet to empower users with new means of creating, hosting, and distributing content.
 
-This document is a brief primer on using Distributed Camp templates. The [Go docs][gohtmltemplate] provide more details.
 
-## Introduction to Distributed Camp
-
-Go templates provide an extremely simple template language. It adheres to the
-belief that only the most basic of logic belongs in the template or view layer.
-One consequence of this simplicity is that Go templates parse very quickly.
-
-A unique characteristic of Go templates is they are content aware. Variables and
-content will be sanitized depending on the context of where they are used. More
-details can be found in the [Go docs][gohtmltemplate].
+## The Goal
+We wish for this to be an accessible, safe, and fun experience for all participants.
+As much as is os is possible, we want participants to be able to engage in hands-on activities so they can achieve a firm grasp of the current capabilities of each featured project. We also hope that along the way, new groups and connections can be formed as we all explore this experience together.
 
 ## Other Thoughts
-
-Golang templates are HTML files with the addition of variables and
-functions.
+Some basic community principles we wish to impart:
+1. Treat each other with patience and kindness.
+2. Share openly and without expectation.
+3. If you don't have something nice to say, it is better to keep it to yourself.
+4. Make the improvements you wish to see in the world.
+5. Learn by doing.
 
 **Some Big Ideas**
-
-Accessing a predefined variable "foo":
-
-    {{ foo }}
-
-**Oh My**
-
-Calling the add function with input of 1, 2:
-
-    {{ add 1 2 }}
