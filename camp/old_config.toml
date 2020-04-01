@@ -1,4 +1,4 @@
-baseURL = "https://distibuted.camp/"
+baseURL = "https://distributed.camp/"
 languageCode = "en-us"
 title = "Distributed Camp 2020"
 theme = "cupper-hugo-theme"

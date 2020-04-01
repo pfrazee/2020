@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Distributed Camp 2020</title>
-    <link>https://distibuted.camp/posts/</link>
+    <link>https://distributed.camp/posts/</link>
     <description>Recent content in Posts on Distributed Camp 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Mar 2020 18:06:18 -0500</lastBuildDate>
     
-	<atom:link href="https://distibuted.camp/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://distributed.camp/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome To Distributed Camp</title>
-      <link>https://distibuted.camp/posts/welcome_to_distributed_camp/</link>
+      <link>https://distributed.camp/posts/welcome_to_distributed_camp/</link>
       <pubDate>Sun, 29 Mar 2020 18:06:18 -0500</pubDate>
       
-      <guid>https://distibuted.camp/posts/welcome_to_distributed_camp/</guid>
+      <guid>https://distributed.camp/posts/welcome_to_distributed_camp/</guid>
       <description>Distributed Camp is a unique event meant to highlight technologies which are changing the future of the Internet to empower users with new means of creating, hosting, and distributing content.
 The Goal We wish for this to be an accessible, safe, and fun experience for all participants. As much as is os is possible, we want participants to be able to engage in hands-on activities so they can achieve a firm grasp of the current capabilities of each featured project.</description>
     </item>
