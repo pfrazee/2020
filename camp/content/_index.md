@@ -14,3 +14,10 @@ Here are some of our featured projects and events:
 * [WebTorrent](https://webtorrent.io/)
 * Sunday Unconference and Participant Showcase
 {{< /campticks >}}
+
+
+### Registration
+Please take a brief moment to [register](https://docs.google.com/forms/d/e/1FAIpQLSfrtkvT2aDLv5GclLbHKeAZldzKpkbu3WhRTgfcGDP7UBaP6Q/viewform).
+
+This will give you access to pre-event happenings, we are also looking for volunteers.
+Help us design and grow the camp!
