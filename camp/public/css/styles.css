@@ -445,7 +445,7 @@ caption {
   padding: 0.25em 0.75em;
 }
 #disqus-comments {
-  display: none; 
+  display: none;
 }
 
 /* Pattern lists */
@@ -530,6 +530,25 @@ caption {
     margin-right: 0.25rem;
     background-image: url(https://distributed.camp/css/images/icon-tick.svg);
     background-size: 100% auto;
+    position: absolute;
+    left: -1.25rem;
+    top: 0.25rem;
+}
+
+/* Tick lists */
+.campticks li {
+    list-style: none;
+    position: relative;
+}
+.campticks li::before {
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    margin-right: 0.25rem;
+    background-image: url(https://distributed.camp/css/images/icon-camptick3.svg);
+    background-size: 95% auto;
+    background-repeat: no;
     position: absolute;
     left: -1.25rem;
     top: 0.25rem;
@@ -1029,7 +1048,7 @@ h1 svg {
     background: rgba(0,0,0,.8);
     color: #fefefe;
 }
-  
+
 ::selection {
   background: rgba(0,0,0,.8);
   color: #fefefe;

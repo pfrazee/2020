@@ -1,0 +1,99 @@
+baseURL = "https://distributed.camp/"
+languageCode = "en-us"
+title = "Distributed Camp 2020"
+theme = "cupper-hugo-theme"
+
+[ author ]
+  name = "Alex Wykoff"
+
+[imaging]
+  quality = 99.0
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about-distributed-camp"
+    weight     = 3
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "blog/"
+    weight     = 1
+  [[menu.main]]
+   identifier = "code-of-conduct"
+   name       = "Code of Conduct"
+   url        = "code-of-conduct"
+   weight     = 5
+  [[menu.main]]
+   identifier = "contact"
+   name       = "Contact"
+   url        = "contact"
+   weight     = 4
+  [[menu.main]]
+    identifier = "merch"
+    name       = "Merch"
+    url        = "merch/"
+    weight     = 1
+  [[menu.main]]
+   identifier = "stream"
+   name       = "Stream"
+   url        = "https://twitch.tv/Distributed_Camp"
+   weight     = 2
+  [[menu.main]]
+   identifier = "schedule"
+   name       = "Schedule"
+   url        = "schedule"
+   weight     = 2
+
+[ params ]
+  description = "May 29th - May 31st, 2020"
+  homeMetaContent = "May 29th - May 31st, 2020"
+  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)."
+  dateFormat = "Jan 2, 2006"
+  katex = true
+# Social icons
+
+  [[params.social]]
+    name = "youtube"
+    url  = "https://www.youtube.com/DistributedCamp"
+
+[permalinks]
+    blog = "/:year/:month/:day/:title/"
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+
+  [markup.goldmark]
+
+    [markup.goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = true
+    strikethrough = true
+    table = true
+    taskList = true
+    typographer = true
+
+    [markup.goldmark.parser]
+    attribute = true
+    autoHeadingID = true
+
+    [markup.goldmark.renderer]
+    hardWraps = false
+    unsafe = true
+    xHTML = false
+
+  [markup.highlight]
+  codeFences = false
+  hl_Lines = ""
+  lineNoStart = 1.0
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4.0
+
+  [markup.tableOfContents]
+  endLevel = 6.0
+  startLevel = 2.0

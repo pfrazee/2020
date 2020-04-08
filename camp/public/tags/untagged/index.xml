@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Distributed Camp 2020</title>
-    <link>https://distributed.camp/</link>
-    <description>Recent content on Distributed Camp 2020</description>
+    <title>untagged on Distributed Camp 2020</title>
+    <link>https://distributed.camp/tags/untagged/</link>
+    <description>Recent content in untagged on Distributed Camp 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2020 16:56:16 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 18:10:29 -0500</lastBuildDate>
     
-	<atom:link href="https://distributed.camp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://distributed.camp/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -51,40 +51,6 @@ Discord Distributed Camp Discord Server</description>
       
       <guid>https://distributed.camp/schedule/</guid>
       <description>Friday, May 29:  AM Slot :  Start - 9AM Central ( UTC) - I2P  End - 1PM Central ( UTC) - Hard stop for AM Slot  PM Slot :  Start - 2PM Central ( UTC) - IPFS  End - 6PM Central ( UTC) - Hard stop for PM Slot  Saturday, May 30:  AM Slot :  Start - 9AM Central ( UTC) - DAT / Beaker Browser End - 1PM Central ( UTC) - Hard stop for AM Slot  PM Slot :  Start - 2PM Central ( UTC) - WebTorrent  End - 6PM Central ( UTC) - Hard stop for PM Slot  Sunday, May 31: - AM Slot :  Start - 9AM Central ( UTC) - Unconference &amp;amp; Participant Showcase 12:30PM Central ( UTC) - Closing remarks and call for feedback - - End - 1PM - Hard stop  </description>
-    </item>
-    
-    <item>
-      <title>Welcome To Distributed Camp</title>
-      <link>https://distributed.camp/2020/03/29/welcome-to-distributed-camp/</link>
-      <pubDate>Sun, 29 Mar 2020 18:06:18 -0500</pubDate>
-      
-      <guid>https://distributed.camp/2020/03/29/welcome-to-distributed-camp/</guid>
-      <description>Distributed Camp is a unique event meant to highlight technologies which are changing the future of the Internet to empower users with new means of creating, hosting, and distributing content.
-The Goal We wish for this to be an accessible, safe, and fun experience for all participants.
-As much as is possible, we want participants to be able to engage in hands-on activities so they can achieve a firm grasp of the current capabilities of each featured project.</description>
-    </item>
-    
-    <item>
-      <title>Welcome To Distributed Camp</title>
-      <link>https://distributed.camp/merch/welcome_to_distributed_camp/</link>
-      <pubDate>Sun, 29 Mar 2020 18:06:18 -0500</pubDate>
-      
-      <guid>https://distributed.camp/merch/welcome_to_distributed_camp/</guid>
-      <description>Distributed Camp is a unique event meant to highlight technologies which are changing the future of the Internet to empower users with new means of creating, hosting, and distributing content.
-The Goal We wish for this to be an accessible, safe, and fun experience for all participants. As much as is os is possible, we want participants to be able to engage in hands-on activities so they can achieve a firm grasp of the current capabilities of each featured project.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://distributed.camp/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://distributed.camp/readme/</guid>
-      <description>Cupper 
-An accessibility-friendly Hugo theme, ported from the original Cupper project.
-Table of contents  Demo Minimum Hugo version Installation Updating Run example site Configuration Logo Favicons Shortcodes Syntax highlighting Disable toc for a blog post Getting help Credits  Demo https://cupper-hugo-theme.netlify.com/
-Minimum Hugo version Hugo version 0.60.1 or higher is required. View the Hugo releases and download the binary for your OS.
-Installation From the root of your site:</description>
     </item>
     
   </channel>

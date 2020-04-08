@@ -16,8 +16,8 @@ imaging:
   quality: 99
 
 params:
-  description: A unique event [original Distributed Camp](https://github.com/DistributedCamp/2020) project.
-  homeMetaContent: A unique event, Distributed Camp project.
+  description: A unique event. Hands-on, connected, and friendly.
+  homeMetaContent: A unique event, the Distributed Camp project.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006

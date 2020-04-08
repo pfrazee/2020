@@ -6,12 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <meta name="generator" content="Hugo 0.68.3" />
-  <link rel="canonical" href="https://distributed.camp/">
+  <link rel="canonical" href="https://distributed.camp/readme/">
 
-  
-    
-      <meta name="description" content="May 29th - May 31st, 2020">
-    
   
 
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -36,9 +32,7 @@
 
   
   
-    
-  
-  <title>Distributed Camp 2020</title>
+  <title> | Distributed Camp 2020</title>
 </head>
 
   <body>
@@ -249,19 +243,63 @@
         <div>
           
   <main id="main">
-    <h1>Distributed Camp 2020</h1>
-    <p>Welcome to <strong>Distributed Camp 2020</strong>: A unique event meant to give everyone a hands-on introduction to technologies shaping the future of the Internet.
-Here are some of our featured projects and events:</p>
-<div class="campticks">
-  <ul>
-<li><a href="https://geti2p.net/">I2P</a></li>
-<li><a href="https://beakerbrowser.com/">DAT &amp; Beaker Browser</a></li>
-<li><a href="https://ipfs.io/">IPFS</a></li>
-<li><a href="https://webtorrent.io/">WebTorrent</a></li>
-<li>Sunday Unconference and Participant Showcase</li>
+    <h1></h1>
+    <h1 id="cupper">Cupper</h1>
+<p><a href="https://app.netlify.com/sites/cupper-hugo-theme/deploys"><img src="https://api.netlify.com/api/v1/badges/bc8c4e51-37ee-419d-ad4f-b378010ee546/deploy-status" alt="Netlify Status"></a></p>
+<p>An accessibility-friendly Hugo theme, ported from the <a href="https://github.com/ThePacielloGroup/cupper">original Cupper</a> project.</p>
+<h2 id="table-of-contents">Table of contents</h2>
+<ul>
+<li><a href="#demo">Demo</a></li>
+<li><a href="#minimum-hugo-version">Minimum Hugo version</a></li>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#updating">Updating</a></li>
+<li><a href="#run-example-site">Run example site</a></li>
+<li><a href="#configuration">Configuration</a></li>
+<li><a href="#logo">Logo</a></li>
+<li><a href="#favicons">Favicons</a></li>
+<li><a href="#shortcodes">Shortcodes</a></li>
+<li><a href="#syntax-highlighting">Syntax highlighting</a></li>
+<li><a href="#disable-toc-for-a-blog-post">Disable toc for a blog post</a></li>
+<li><a href="#getting-help">Getting help</a></li>
+<li><a href="#credits">Credits</a></li>
 </ul>
-</div>
-
+<h2 id="demo">Demo</h2>
+<p><a href="https://cupper-hugo-theme.netlify.com/">https://cupper-hugo-theme.netlify.com/</a></p>
+<h2 id="minimum-hugo-version">Minimum Hugo version</h2>
+<p>Hugo version <code>0.60.1</code> or higher is required. View the <a href="https://github.com/gohugoio/hugo/releases">Hugo releases</a> and download the binary for your OS.</p>
+<h2 id="installation">Installation</h2>
+<p>From the root of your site:</p>
+<pre><code>git submodule add https://github.com/zwbetz-gh/cupper-hugo-theme.git themes/cupper-hugo-theme
+</code></pre>
+<h2 id="updating">Updating</h2>
+<p>From the root of your site:</p>
+<pre><code>git submodule update --remote --merge
+</code></pre>
+<h2 id="run-example-site">Run example site</h2>
+<p>From the root of <code>themes/cupper-hugo-theme/exampleSite</code>:</p>
+<pre><code>hugo server --themesDir ../..
+</code></pre>
+<h2 id="configuration">Configuration</h2>
+<p>Copy <code>config.yaml</code> from the <a href="https://github.com/zwbetz-gh/cupper-hugo-theme/tree/master/exampleSite"><code>exampleSite</code></a>, then edit as desired.</p>
+<h2 id="logo">Logo</h2>
+<p>Place your SVG logo at <code>static/images/logo.svg</code>. If you don&rsquo;t provide a logo, then the default theme logo will be used.</p>
+<h2 id="favicons">Favicons</h2>
+<p>Upload your image to <a href="https://realfavicongenerator.net/">RealFaviconGenerator</a> then copy-paste the generated favicon files under <code>static</code>.</p>
+<h2 id="shortcodes">Shortcodes</h2>
+<p>See the <a href="https://cupper-hugo-theme.netlify.com/cupper-shortcodes/">full list of supported shortcodes</a>.</p>
+<h2 id="syntax-highlighting">Syntax highlighting</h2>
+<p>Syntax highlighting is provided by <a href="https://prismjs.com/">Prism</a>. See this <a href="https://cupper-hugo-theme.netlify.com/cupper-shortcodes/#syntax-highlighting">markdown code fences example</a>.</p>
+<h2 id="disable-toc-for-a-blog-post">Disable toc for a blog post</h2>
+<p>Blog posts that have two or more subheadings (<code>&lt;h2&gt;</code>s) automatically get a table of contents. To disable this set <code>toc</code> to <code>false</code>. For example:</p>
+<pre><code>---
+title: &quot;My page with a few headings&quot;
+toc: false
+---
+</code></pre>
+<h2 id="getting-help">Getting help</h2>
+<p>If you run into an issue that isn&rsquo;t answered by this documentation or the <a href="https://github.com/zwbetz-gh/cupper-hugo-theme/tree/master/exampleSite"><code>exampleSite</code></a>, then visit the <a href="https://discourse.gohugo.io/">Hugo forum</a>. The folks there are helpful and friendly. <strong>Before</strong> asking your question, be sure to read the <a href="https://discourse.gohugo.io/t/requesting-help/9132">requesting help guidelines</a>. Feel free to tag me in your question, my forum username is <a href="https://discourse.gohugo.io/u/zwbetz/summary">@zwbetz</a>.</p>
+<h2 id="credits">Credits</h2>
+<p>Thank you to <a href="http://www.heydonworks.com">Heydon Pickering</a> and <a href="https://www.paciellogroup.com/">The Paciello Group</a> for creating the original Cupper project.</p>
 
   </main>
 
