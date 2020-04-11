@@ -1053,3 +1053,32 @@ h1 svg {
   background: rgba(0,0,0,.8);
   color: #fefefe;
 }
+
+
+/* cta */
+.cta {
+    border: 1px solid #111;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+.cta h3 + p {
+    margin-top: 1em;
+}
+
+/* thick-button */
+
+.thick-button {
+    display: inline-block;
+    background: #111;
+    color: #fff;
+    padding: 6px 14px;
+    border-radius: 8px;
+}
+
+@media screen and (max-width: 45em) {
+    .thick-button {
+        display: block;
+        text-align: center;
+    }
+}
