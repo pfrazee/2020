@@ -16,8 +16,12 @@ Here are some of our featured projects and events:
 {{< /campticks >}}
 
 
+{{< cta >}}
 ### Registration
 Please take a brief moment to [register](https://docs.google.com/forms/d/e/1FAIpQLSfrtkvT2aDLv5GclLbHKeAZldzKpkbu3WhRTgfcGDP7UBaP6Q/viewform).
 
+{{< thick-button href="https://docs.google.com/forms/d/e/1FAIpQLSfrtkvT2aDLv5GclLbHKeAZldzKpkbu3WhRTgfcGDP7UBaP6Q/viewform" >}}Register Now{{< /thick-button >}}
+
 This will give you access to pre-event happenings, we are also looking for volunteers.
 Help us design and grow the camp!
+{{< /cta >}}
