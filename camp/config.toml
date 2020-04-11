@@ -36,6 +36,11 @@ theme = "cupper-hugo-theme"
     url        = "merch/"
     weight     = 1
   [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "projects/"
+    weight     = 1
+  [[menu.main]]
    identifier = "stream"
    name       = "Stream"
    url        = "https://twitch.tv/Distributed_Camp"
