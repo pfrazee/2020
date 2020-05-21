@@ -18,7 +18,7 @@ Here are some of our featured projects and events:
 
 {{< cta >}}
 ### Registration
-Please take a brief moment to [register](https://docs.google.com/forms/d/e/1FAIpQLSfrtkvT2aDLv5GclLbHKeAZldzKpkbu3WhRTgfcGDP7UBaP6Q/viewform).
+Please take a brief moment to [register](https://docs.google.com/forms/d/e/1FAIpQLSfrtkvT2aDLv5GclLbHKeAZldzKpkbu3WhRTgfcGDP7UBaP6Q/viewform) it's free!
 
 {{< thick-button href="https://docs.google.com/forms/d/e/1FAIpQLSfrtkvT2aDLv5GclLbHKeAZldzKpkbu3WhRTgfcGDP7UBaP6Q/viewform" >}}Register Now{{< /thick-button >}}
 

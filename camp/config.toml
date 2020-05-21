@@ -43,7 +43,7 @@ theme = "cupper-hugo-theme"
   [[menu.main]]
    identifier = "stream"
    name       = "Stream"
-   url        = "https://twitch.tv/Distributed_Camp"
+   url        = "https://twitch.tv/distributedcamp"
    weight     = 2
   [[menu.main]]
    identifier = "schedule"
