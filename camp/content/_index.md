@@ -32,10 +32,10 @@ Need a little more information before you sign up? Here are the basics:
 ### Why
 There are a confluence of reasons for why you should be using these technologies today. Over the past few years in particular we have noticed a rise in demonetization, censorship, country-wide Internet shutdowns, and an explosion in privacy-invading technologies via ads and tracker analytics.
 Attending the workshops over this event will give you the tools to publish your content your way.
-(Also, these projects are just really cool and run by nice people.)
+We have a special opportunity in this moment to accelerate the move over to an Internet that respects your individuality, your content, and your privacy.
 
 ### Who
-Aside from project leads representing the [Projects](/projects), there are also engineers, designers, journalists, hackers, and artists.
+Aside from project leads representing the [Projects](/projects), there are also engineers, designers, journalists, hackers, artists... literally anyone with a computer, a connection, and some time is free to participate. The workshops will help you to create new sites, new apps, and perhaps make some new friends along the way.
 
 ### What
 Two days of immersive, hands-on workshops where you get to try out some of the latest web technologies for yourself and a Sunday Unconference where you get to learn of other projects in this space as well as show off what you made!
