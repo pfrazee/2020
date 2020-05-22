@@ -1,0 +1,14 @@
+<logo>
+  <div>
+    <div class="intro">
+      <a class="logo" href="/" aria-label="{{ .Site.Title }} home page">
+        <img src="{{ "images/logo_2020.svg" | absURL }}" alt="">
+      </a>
+      <p class="library-desc">
+        {{ with .Site.Params.description }}
+          {{ . | markdownify }}
+        {{ end }}
+      </p>
+    </div>
+  </div>
+</logo>
