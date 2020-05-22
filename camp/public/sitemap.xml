@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://distributed.camp/blog/</loc>
+    <lastmod>2020-05-21T18:06:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://distributed.camp/2020/05/21/our-first-official-logo/</loc>
+    <lastmod>2020-05-21T18:06:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://distributed.camp/projects/i2p/</loc>
+    <lastmod>2020-05-21T16:56:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://distributed.camp/projects/beaker/</loc>
+    <lastmod>2020-05-20T16:56:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://distributed.camp/projects/ipfs/</loc>
+    <lastmod>2020-05-19T16:56:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://distributed.camp/projects/webtorrent/</loc>
+    <lastmod>2020-05-18T16:56:16-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://distributed.camp/about-distributed-camp/</loc>
     <lastmod>2020-04-03T18:10:29-05:00</lastmod>
   </url>
@@ -33,21 +63,6 @@
   </url>
   
   <url>
-    <loc>https://distributed.camp/blog/</loc>
-    <lastmod>2020-03-29T18:06:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://distributed.camp/merch/coming-soon/</loc>
-    <lastmod>2020-03-29T18:06:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://distributed.camp/merch/</loc>
-    <lastmod>2020-03-29T18:06:18-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://distributed.camp/2020/03/29/welcome-to-distributed-camp/</loc>
     <lastmod>2020-03-29T18:06:18-05:00</lastmod>
   </url>
@@ -59,6 +74,11 @@
   
   <url>
     <loc>https://distributed.camp/</loc>
+    <lastmod>2020-03-29T16:56:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://distributed.camp/merch/</loc>
     <lastmod>2020-03-29T16:56:16-05:00</lastmod>
   </url>
   

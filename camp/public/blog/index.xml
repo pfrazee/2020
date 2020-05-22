@@ -6,10 +6,21 @@
     <description>Recent content in Blogs on Distributed Camp 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2020 18:06:18 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 18:06:18 -0500</lastBuildDate>
     
 	<atom:link href="https://distributed.camp/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Our first official logo!</title>
+      <link>https://distributed.camp/2020/05/21/our-first-official-logo/</link>
+      <pubDate>Thu, 21 May 2020 18:06:18 -0500</pubDate>
+      
+      <guid>https://distributed.camp/2020/05/21/our-first-official-logo/</guid>
+      <description>As we mentioned in &amp;ldquo;What&amp;rsquo;s up with that logo?&amp;quot;, one of the community values is that &amp;ldquo;we&amp;rsquo;re all participants&amp;rdquo;.
+We held a Design Jam pre-event for our registered participants and came up with a really solid first logo!
+  We are so very pleased with all of the participation from campers and project leads, but an extra special shout-out is due to @ricky. Be sure to give them a cheer on our Discord server!</description>
+    </item>
     
     <item>
       <title>Welcome To Distributed Camp</title>

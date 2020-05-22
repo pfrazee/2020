@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Merches on Distributed Camp 2020</title>
+    <title>Merch on Distributed Camp 2020</title>
     <link>https://distributed.camp/merch/</link>
-    <description>Recent content in Merches on Distributed Camp 2020</description>
+    <description>Recent content in Merch on Distributed Camp 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2020 18:06:18 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2020 16:56:16 -0500</lastBuildDate>
     
 	<atom:link href="https://distributed.camp/merch/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Coming Soon...</title>
-      <link>https://distributed.camp/merch/coming-soon/</link>
-      <pubDate>Sun, 29 Mar 2020 18:06:18 -0500</pubDate>
-      
-      <guid>https://distributed.camp/merch/coming-soon/</guid>
-      <description>If you&amp;rsquo;d like to boost Distributed Camp as a participant, please check back with us as we get the merch store up and running.
-In the meantime, be sure to register and tell your friends and family about our event.</description>
-    </item>
     
   </channel>
 </rss>

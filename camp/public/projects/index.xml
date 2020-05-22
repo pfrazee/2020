@@ -11,5 +11,41 @@
 	<atom:link href="https://distributed.camp/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>I2P - The Invisible Internet Project</title>
+      <link>https://distributed.camp/projects/i2p/</link>
+      <pubDate>Thu, 21 May 2020 16:56:16 -0500</pubDate>
+      
+      <guid>https://distributed.camp/projects/i2p/</guid>
+      <description>What is I2P? You can find out more by visiting their site https://geti2p.net</description>
+    </item>
+    
+    <item>
+      <title>Beaker Browser</title>
+      <link>https://distributed.camp/projects/beaker/</link>
+      <pubDate>Wed, 20 May 2020 16:56:16 -0500</pubDate>
+      
+      <guid>https://distributed.camp/projects/beaker/</guid>
+      <description>What is Beaker? You can find out more by visiting their site https://beakerbrowser.com/</description>
+    </item>
+    
+    <item>
+      <title>IPFS - The Interplanetary File System</title>
+      <link>https://distributed.camp/projects/ipfs/</link>
+      <pubDate>Tue, 19 May 2020 16:56:16 -0500</pubDate>
+      
+      <guid>https://distributed.camp/projects/ipfs/</guid>
+      <description>What is IPFS? You can find out more by visiting their site https://ipfs.io/</description>
+    </item>
+    
+    <item>
+      <title>WebTorrent</title>
+      <link>https://distributed.camp/projects/webtorrent/</link>
+      <pubDate>Mon, 18 May 2020 16:56:16 -0500</pubDate>
+      
+      <guid>https://distributed.camp/projects/webtorrent/</guid>
+      <description>What is Webtorrent? You can find out more by visiting their site https://webtorrent.io/</description>
+    </item>
+    
   </channel>
 </rss>
